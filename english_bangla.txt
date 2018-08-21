@@ -1,0 +1,35 @@
+﻿Go.	যাও
+Run!	দৌড়াও!
+Run!	পালাও!
+Wow!	ওয়াও!
+Fire!	আগুন!
+It's raining hard.	জোরে বৃষ্টি হচ্ছে.
+Help!	বাঁচাও!
+Jump.	লাফাও.
+Stop!	থাম!
+Stop!	দারাও!
+Wait!	থাম !
+Wait!	অপেক্ষা কর !
+I see.	দেখছি.
+I try.	চেষ্টা করব .
+I won!	জিতে গেছি!
+Oh no!	না!
+Attack!	আক্রমন!
+Attack!	হামলা কর!
+Cheers!	উপভগ কর!
+Get up.	উঠে পর.
+finish	শেষ।
+me	আমাকে।
+put	রাখ।
+we	আমরা।
+Let me finish.	আমাকে শেষ করতে দাও ।
+May I put it here?	আমি কি এটা এখানে রাখতে পারি?
+Can we go?	আমরা কি যেতে পারি?
+Did I win?	আমি কি জিতেছি?
+busy	ব্যস্ত।
+sick	অসুস্থ।
+good	ভাল।
+I am good.	আমি ভাল।
+I am busy.	আমি ব্যাস্ত।
+I am busy.	আমি ব্যাস্ত আছি।
+I am sick.	আমি অসুস্থ।
