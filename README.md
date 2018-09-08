@@ -9,22 +9,17 @@ Epoch 500/500
 Input sentence: ﻿Go.
 Decoded Bangla sentence: যাও
 
--
 Input sentence: Run!
 Decoded sentence: পালাও!
 
--
 Input sentence: Run!
 Decoded sentence: পালাও!
 
--
 Input sentence: Wow!
 Decoded sentence: ওয়াও!
 
--
 Input sentence: Fire!
 Decoded sentence: আগুন!
 
--
 Input sentence: Help!
 Decoded sentence: বাঁচাও!
