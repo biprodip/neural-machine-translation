@@ -21,3 +21,9 @@ Decoded sentence: আগুন!
 
 Input sentence: Help!
 Decoded sentence: বাঁচাও!
+
+
+# Dependencies
+* Python
+* Keras
+* Numpy
