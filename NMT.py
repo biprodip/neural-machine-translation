@@ -52,22 +52,17 @@ for k, v in enumerate(engChars):
     engDictIndToChar[k] = v
     engDictCharToInd[v] = k
     
-# dictionary to index each french character - key is index and value is french character
+# dictionary to index each bangla character - key is index and value is bangla character
 banDictIndToChar = {}
 
-# dictionary to get french character given its index - key is french character and value is index
+# dictionary to get bangla character given its index - key is bangla character and value is index
 banDictCharToInd = {}
 for k, v in enumerate(banChars):
     banDictIndToChar[k] = v
     banDictCharToInd[v] = k
-    
-    
-    
-    
-    
+      
 maxEngLen= max([len(line) for line in engSentences])
 maxBanLen = max([len(line) for line in banSentences])
-
 
 
 engSenToken = np.zeros(shape = (totSamples,maxEngLen,len(engChars)), dtype='float32')
@@ -75,7 +70,7 @@ banSenToken = np.zeros(shape = (totSamples,maxBanLen,len(banChars)), dtype='floa
 target = np.zeros((totSamples, maxBanLen, len(banChars)),dtype='float32')
 
 
-# Vectorize the english and french sentences
+# Vectorize the english and bangla sentences
 
 for i in range(totSamples):
     for k,ch in enumerate(engSentences[i]):
